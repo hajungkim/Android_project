@@ -1,0 +1,27 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!--<style name="ThemeSelector" parent="android:Theme.Light">-->
+    <!--<item name="android:windowTitleBackgroundStyle">@style/WindowTitleBackground</item>-->
+    <!--<item name="android:textAppearance">@style/TitleTextColor</item>-->
+    <!--</style>-->
+
+    <!--<style name="WindowTitleBackground" parent="AppTheme.NoActionBar">-->
+    <!--<item name="android:background">@color/colorAccent</item>-->
+    <!--</style>-->
+
+    <!--<style name="TitleTextColor">-->
+    <!--<item name="android:textColor">@color/colorPrimary</item>-->
+    <!--</style>-->
+
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>

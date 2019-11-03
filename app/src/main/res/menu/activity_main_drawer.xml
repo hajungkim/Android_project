@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_request"
+            android:icon="@drawable/ic_request_black"
+            android:title="요청 하기" />
+        <item
+            android:id="@+id/nav_history"
+            android:icon="@drawable/ic_history_black"
+            android:title="요청 이력" />
+        <item
+            android:id="@+id/nav_information"
+            android:icon="@drawable/ic_information_black"
+            android:title="내 정보" />
+        <item
+            android:id="@+id/nav_inquire"
+            android:icon="@drawable/ic_inquire_black"
+            android:title="문의 하기" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_logout_black"
+            android:title="로그아웃" />
+    </group>
+
+
+</menu>
