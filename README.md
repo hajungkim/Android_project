@@ -12,11 +12,11 @@
 2017-04 ~ 2017-11
 ## Screen shot
 <div>
-![그림1](https://user-images.githubusercontent.com/36887393/71708309-b13d0f00-2e33-11ea-995b-4c38834d1c64.png)
+<img width="200" src="https://user-images.githubusercontent.com/36887393/71708309-b13d0f00-2e33-11ea-995b-4c38834d1c64.png"/>
 ![그림2](https://user-images.githubusercontent.com/36887393/71708333-e21d4400-2e33-11ea-8a66-38734d9d5add.png)
 ![그림3](https://user-images.githubusercontent.com/36887393/71708335-e47f9e00-2e33-11ea-8de7-e64328f7c3a2.png)
-<div/>
+</div>
 <div>
 ![그림4](https://user-images.githubusercontent.com/36887393/71708336-e6e1f800-2e33-11ea-9f99-a58b5da26396.png)
 ![그림5](https://user-images.githubusercontent.com/36887393/71708338-ea757f00-2e33-11ea-85ef-4e70ccf1238c.png)
-<div/>
+</div>
